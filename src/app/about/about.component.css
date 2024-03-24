@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(rgb(46, 45, 45),#011a39,
+    black);
+    height: auto;
+}
+h1
+{
+    color: yellow;
+    margin-left: 750px;
+    padding-top: 50px;
+    font-weight: 900;
+    font-family: fantasy;
+    letter-spacing: 3px;
+    font-size: 2rem;
+}
+p
+{
+    color: whitesmoke;
+    margin-left: 20px;
+}

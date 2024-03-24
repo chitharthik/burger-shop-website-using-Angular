@@ -1,0 +1,170 @@
+.body{
+    scroll-behavior: smooth;
+}
+
+.containers
+{
+    background: linear-gradient(rgb(46, 45, 45),#011a39,
+    black);
+    height: 100vh;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.navItems
+{
+    display: flex;
+    color: whitesmoke;
+    
+}
+.navItem
+{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.navIcons
+{
+    display: flex;
+    color: whitesmoke;
+    margin-right: 50px;
+}
+
+.navIcon
+{
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.Left
+{
+   
+    width: 700px;
+    margin-top: 150px;
+    margin-left: 100px;
+ 
+    
+}
+.leftHead
+{
+    color: whitesmoke;
+    text-transform: capitalize;
+    font-family: fantasy;
+    font-size: 100px;
+    line-height: 0.9;
+    
+ 
+}
+.leftTitle
+{
+    text-shadow: 1px 1px 20px black;
+    color: white;
+   
+}
+.leftContent
+{
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.leftViewmore
+{
+    color: yellow;
+    margin-left: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+.rightContent
+{
+    max-width: 100px;
+    position: relative;
+    left: 900px;
+    bottom: 440px;
+}
+.menuHead
+{
+    position: relative;
+    bottom: 300px;
+    margin-left: 45vw;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-family: fantasy;
+}
+.burgerMenu
+{
+     margin-left: 100px;
+}
+.cardHead
+{
+    width: 1392px;
+    margin-top: -305px;
+    margin-left: 50px;
+    height: 200px;
+    max-width: 1290px;
+}
+.cardHead2
+{
+    max-width: 1290px;
+    width: 1392px;
+    margin-left: 50px;
+    height: 200px;
+}
+.card-body{
+  background-color: #011a39;
+  color: white;
+  border-radius: 0 0 5px 5px;
+}
+.card:hover
+{
+    transform: scale(1.1);
+}
+.backTheme
+{
+    position: absolute;
+    top: 664px;
+    height: 1239px;
+    width: 1519px;
+    background-color: yellow;
+    z-index: -1;
+
+}
+footer
+{
+    position: relative;
+    top: 300px;
+    height: 150px;
+    background: linear-gradient(rgb(46, 45, 45),#011a39,
+    black);
+}
+.footerParent
+{
+    color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+    
+}
+.footerContent
+{
+    cursor: pointer;
+}
+.fa-brands
+{
+    color: rgb(255, 255, 255);
+    margin-left: 50px;
+    transform: scale(1.7);
+    
+    
+}
+.footerIcon
+{
+    position: relative;
+    bottom: 50px;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 100px;
+    cursor: pointer;
+    
+}
+
+

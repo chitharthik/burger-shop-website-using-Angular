@@ -1,0 +1,23 @@
+body
+{
+    background: linear-gradient(rgb(46, 45, 45),#011a39,
+    black);
+}
+
+form{
+    width: 350px;
+    display: grid;
+    border: 1px solid rgb(228, 228, 228);
+    padding: 50px;
+    border-radius: 50px;
+    color: white;
+  
+   
+}
+.formSection
+{
+    height: 650px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
